@@ -2,7 +2,7 @@
 
 ### Computer Engineering Student
 
-- 🌱 I'm currently learning **UI/UX, Web Design with Javascript**
+- 🌱 I'm currently learning **Web Design with Javascript**
 
 - 📫 How to reach me **giovanna.ecufal@gmail.com**
 
