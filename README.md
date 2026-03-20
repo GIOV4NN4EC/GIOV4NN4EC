@@ -3,6 +3,7 @@
 ### Computer Engineering Student
 
 - 🌱 I'm currently learning **Web Design with Javascript**
+- ♿ **Web Design with Accessibility**
 
 - 📫 How to reach me **giovanna.ecufal@gmail.com**
 
