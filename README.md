@@ -2,7 +2,7 @@
 
 ### Computer Engineering Student
 
-- ♿ **Web Design with Accessibility**
+- ♿  Currently studying **Web Design with Accessibility**
 
 - 📫 How to reach me **giovanna.ecufal@gmail.com**
 
